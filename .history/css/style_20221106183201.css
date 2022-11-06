@@ -88,10 +88,6 @@ body::-webkit-scrollbar-thumb {
 {
     color: var(--text);
 }
-.heading .menu .nav  li:hover a
-{
-    color: #D43790;
-}
 .chossen
 {
     color: var(--text-chossen) !important;
